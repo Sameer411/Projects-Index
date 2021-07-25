@@ -7,8 +7,6 @@ List of All Projects and Repo Link
 3) Android Application Development
 4) Academic Project 
 
-[Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network)
-
 # Machine Learning 
 1) [Car Price Prediction](https://github.com/Sameer411/Car-Price-Prediction)
 2) [Heart Disease Prediction](https://github.com/Sameer411/Bertelsmann-Scholarship-Study-Jam-1.0-ML-Project-Heart-Disease-Prediction)
