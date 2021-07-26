@@ -1,7 +1,7 @@
 # Projects-Index
 List of All Projects and Repo Link
 
-# Project Domains: 
+# Project Domains I have worked on : 
 1) Machine Learning 
 2) Web Development
 3) Android Application Development
