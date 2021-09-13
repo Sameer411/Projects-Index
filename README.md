@@ -37,3 +37,77 @@ List of All Projects and Repo Link
 # Academic Projects
 1) [American ign Language Convertor](https://github.com/Sameer411/Sign-Language-to-Text-Conversion)
 2) [Plagiarism Detection Software](https://github.com/Sameer411/Plagiarism-Detection-Software)
+
+
+
+/*
+        Constructor 
+
+*/
+
+
+                                                // Code 1 -> Basic Input Output
+
+#include<iostream>
+using namespace std; 
+
+int main()
+{
+    int var = 6;
+    cout<<"Value of Var = "<<sum;
+    
+    return 0;
+}
+
+
+                                                // Code 2 -> Creating class 
+
+#include <iostream>  
+using namespace std;  
+class Student 
+{  
+   public:  
+      int id;//data member (also instance variable)      
+      string name;//data member(also instance variable)      
+};  
+
+int main() 
+{  
+    Student s1; //creating an object of Student   
+    s1.id = 201;    
+    s1.name = "Sameer Rathod";   
+    cout<<s1.id<<endl;  
+    cout<<s1.name<<endl;  
+    return 0;  
+}  
+
+
+
+                                                // Code 3 -> Constructor Program 
+
+// Cpp program to illustrate the
+// concept of Constructors
+#include <iostream>
+using namespace std;
+
+class construct
+{
+public:
+	int a, b;
+	// Default Constructor
+	construct()
+	{
+		a = 10;
+		b = 20;
+	}
+};
+
+int main()
+{
+	// Default constructor called automatically
+	// when the object is created
+	construct c;
+	cout << "a: " << c.a << endl
+		<< "b: " << c.b;
+	return 1;
+}
